@@ -1,10 +1,15 @@
 ### My recent projects 🚀
 <img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
-Artificial intelligence for cancer researchers
-
+<b>NuclAI</b><br/>
+Artificial intelligence for cancer researchers<br/><br/><br/>
 
 <img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
-Artificial intelligence for cancer researchers
+<b>NuclAI</b><br/>
+Artificial intelligence for cancer researchers<br/><br/><br/>
+
+<img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
+<b>NuclAI</b><br/>
+Artificial intelligence for cancer researchers<br/><br/><br/>
 
 <!--
 **norahsakal/norahsakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
