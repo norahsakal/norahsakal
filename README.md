@@ -1,7 +1,7 @@
 ### Solo founder of these recent projects 🚀
 <a href="https://nuclai.co"><img src="https://github.com/norahsakal/norahsakal/blob/main/logos/nuclai.png" width="300"></a><br/>
 <b>NuclAI</b> | <a href="https://nuclai.co">nuclai.co</a><br/>
-Artificial intelligence for cancer researchers<br/><br/>
+Artificial intelligence for cancer and stem cell researchers.<br/><br/>
 
 <a href="https://youtine.co"><img src="https://github.com/norahsakal/norahsakal/blob/main/logos/youtine.png" width="300"></a><br/>
 <b>Youtine</b> | <a href="https://youtine.co">youtine.co</a><br/>
