@@ -1,5 +1,5 @@
 ### My recent projects 🚀
-<a href="https://nuclai.co"><img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="300"></a><br/>
+<a href="https://nuclai.co"><img src="https://github.com/norahsakal/norahsakal/blob/main/logos/nuclai.png" width="300"></a><br/>
 <b>NuclAI</b> | <a href="https://nuclai.co">nuclai.co</a><br/>
 Artificial intelligence for cancer researchers<br/><br/>
 
