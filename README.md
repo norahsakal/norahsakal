@@ -1,6 +1,10 @@
 ### My recent projects 🚀
-![alt text](https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png?raw=true)
+<img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
+Artificial intelligence for cancer researchers
 
+
+<img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
+Artificial intelligence for cancer researchers
 
 <!--
 **norahsakal/norahsakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
