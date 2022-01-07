@@ -16,7 +16,7 @@ Event incident reporting made easy.<br/><br/>
 Quickly fill call-offs and vacant shifts with artificial intelligence.<br/><br/>
 
 <a href="https://wakingg.com"><img src="https://github.com/norahsakal/norahsakal/blob/main/logos/wakingg.png" width="300"></a><br/>
-<b>Wakingg</b> | <a href="https://nuclai.co">wakingg.com</a><br/>
+<b>Wakingg</b> | <a href="https://wakingg.com">wakingg.com</a><br/>
 Automated call for your important emails.<br/><br/>
 
 <a href="https://dailydomainideas.com/"><img src="https://github.com/norahsakal/norahsakal/blob/main/logos/daily_domain_ideas.png" width="300"></a><br/>
