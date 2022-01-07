@@ -3,9 +3,9 @@
 <b>NuclAI</b><br/>
 Artificial intelligence for cancer researchers<br/><br/><br/>
 
-<img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
-<b>NuclAI</b><br/>
-Artificial intelligence for cancer researchers<br/><br/><br/>
+<img src="https://github.com/norahsakal/norahsakal/blob/main/logos/konduct.png" width="200">
+<b>Konduct</b><br/>
+Event incident reporting made easy.<br/><br/><br/>
 
 <img src="https://github.com/NuclaAI/nai-landing-page/blob/develop/src/assets/image/logo-main-black.png" width="200">
 <b>NuclAI</b><br/>
