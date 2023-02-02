@@ -1,12 +1,12 @@
 ### Diving into code: some of my technical blog posts 💡
 Visit <a href="https://norahsakal.com">norahsakal.com</a> for more blog posts
 
-<a href="https://norahsakal.com/blog/fine-tune-gpt3-model"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/fine_tune_gpt3/linkedin_card.png" width="450"></a>
-<a href="https://norahsakal.com/blog/automatically-organize-twitter-bookmarks-in-notion"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/automatically-organize-twitter-bookmarks-in-notion/linkedin_card.png" width="450"></a>
-<a href="https://norahsakal.com/blog/create-gpt3-chrome-extension"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/gpt3-chrome-extansion/linkedin_card.png" width="450"></a>
-<a href="https://norahsakal.com/blog/automate-infrastructure-generation"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/automate-infrastructure-generation/linkedin_card.png" width="450"></a>
-<a href="https://norahsakal.com/blog/ask-gpt3-programming-questions-in-terminal"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/ask-questions-in-terminal/linkedin_card.png" width="450"></a>
-<a href="https://norahsakal.com/blog/create-public-notion-integration"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/public-notion-integration/linkedin_card_large.png" width="450"></a>
+<a href="https://norahsakal.com/blog/fine-tune-gpt3-model"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/fine_tune_gpt3/linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/automatically-organize-twitter-bookmarks-in-notion"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/automatically-organize-twitter-bookmarks-in-notion/linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/create-gpt3-chrome-extension"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/gpt3-chrome-extansion/linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/automate-infrastructure-generation"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/automate-infrastructure-generation/linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ask-gpt3-programming-questions-in-terminal"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/ask-questions-in-terminal/linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/create-public-notion-integration"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/public-notion-integration/linkedin_card_large.png" width="400"></a>
 
 
 
