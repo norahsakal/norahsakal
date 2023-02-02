@@ -6,7 +6,8 @@
 <a href="https://norahsakal.com/blog/ask-gpt3-programming-questions-in-terminal"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/ask-questions-in-terminal/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/create-public-notion-integration"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/public-notion-integration/linkedin_card.png" width="400"></a>
 
-<a href="https://norahsakal.com">Visit norahsakal.com for more blog posts</a>
+
+Visit <a href="https://norahsakal.com">norahsakal.com</a> for more blog posts
 
 
 
