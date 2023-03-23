@@ -1,6 +1,7 @@
 ### Diving into code: some of my technical blog posts 💡
 Click to read or visit <a href="https://norahsakal.com">norahsakal.com</a> for more blog posts
 
+<a href="https://norahsakal.com/blog/chatgpt-recommend-products-embeddings"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-recommend-products-embeddings/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/chatgpt-support-requests"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-api/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/fine-tune-gpt3-model"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/fine_tune_gpt3/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/automatically-organize-twitter-bookmarks-in-notion"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/automatically-organize-twitter-bookmarks-in-notion/linkedin_card.png" width="400"></a>
