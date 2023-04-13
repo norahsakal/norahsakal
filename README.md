@@ -1,9 +1,9 @@
 ### Diving into code: some of my technical blog posts 💡
 Click to read or visit <a href="https://norahsakal.com">norahsakal.com</a> for more blog posts
 
-**Looking for personalized AI solutions?** I offer one-on-one collaboration and tailored AI services to help businesses revolutionize their operations. 
-
-Get in touch to explore how we can work together and find custom solutions to your unique challenges: <a href="https://norahsakal.com">norahsakal.com</a>
+>**Looking for personalized AI solutions?**<br>
+>I offer one-on-one collaboration and tailored AI services to help businesses revolutionize their operations.<br>
+>Get in touch to explore how we can work together and find custom solutions to your unique challenges: <a href="https://norahsakal.com/consulting">norahsakal.com/consulting</a>
 
 <a href="https://norahsakal.com/blog/chatgpt-audio-chatbot"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-audio-chatbot/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/chatgpt-product-recommendation-embeddings"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-recommend-products-embeddings/linkedin_card.png" width="400"></a>
