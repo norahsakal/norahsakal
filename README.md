@@ -5,6 +5,8 @@ Click to read or visit <a href="https://norahsakal.com">norahsakal.com</a> for m
 >I offer one-on-one collaboration and tailored AI services to help businesses revolutionize their operations.<br>
 >Get in touch to explore how we can work together and find custom solutions to your unique challenges: <a href="https://norahsakal.com/consulting">norahsakal.com/consulting</a>
 
+<a href="https://norahsakal.com/blog/naive-rag-dead-long-live-agents"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/rag-is-dead/linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/tutorials/ai_for_ecommerce/aws_titan_image_embeddings/"><img src="https://d1fiydes8a4qgo.cloudfront.net/img/guides/aws_titan/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/chatgpt-audio-chatbot"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-audio-chatbot/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/chatgpt-product-recommendation-embeddings"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-recommend-products-embeddings/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/chatgpt-support-requests"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-api/linkedin_card.png" width="400"></a>
