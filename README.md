@@ -5,6 +5,18 @@ Click to read or visit <a href="https://norahsakal.com">norahsakal.com</a> for m
 >I offer one-on-one collaboration and tailored AI services to help businesses revolutionize their operations.<br>
 >Get in touch to explore how we can work together and find custom solutions to your unique challenges: <a href="https://norahsakal.com/consulting">norahsakal.com/consulting</a>
 
+## AI Agent Advent Calendar 2024
+This December, I'm highlighting the limitations of simple AI chatbots and demonstrating how AI agents solve the challenges:
+
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-negations"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_8_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-unavailable-colors"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_7_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-style-suggestions"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_6_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-price-filter"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_5_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-multiple-requests"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_4_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-handle-numerical-requests"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_3_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-understand-context-shifts"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_2_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-ask-clarifying-questions"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_1_linkedin_card.png" width="400"></a>
+
 <a href="https://norahsakal.com/blog/naive-rag-dead-long-live-agents"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/rag-is-dead/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/tutorials/ai_for_ecommerce/aws_titan_image_embeddings/"><img src="https://d1fiydes8a4qgo.cloudfront.net/img/guides/aws_titan/linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/chatgpt-audio-chatbot"><img src="https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-audio-chatbot/linkedin_card.png" width="400"></a>
