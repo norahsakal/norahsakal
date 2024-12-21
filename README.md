@@ -8,6 +8,10 @@ Click to read or visit <a href="https://norahsakal.com">norahsakal.com</a> for m
 ## AI Agent Advent Calendar 2024
 This December, I'm highlighting the limitations of simple AI chatbots and demonstrating how AI agents solve the challenges:
 
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-numeric-height-queries"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_12_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-formal-shoes"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_11_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-multi-color-requests"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_10_linkedin_card.png" width="400"></a>
+<a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-remember-color-requirements"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_9_linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-negations"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_8_linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-unavailable-colors"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_7_linkedin_card.png" width="400"></a>
 <a href="https://norahsakal.com/blog/ai-advent-calendar-2024-ai-agents-style-suggestions"><img src="https://d1fiydes8a4qgo.cloudfront.net/blog/2024/advent_calendar/dec_6_linkedin_card.png" width="400"></a>
